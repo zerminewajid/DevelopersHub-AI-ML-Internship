@@ -16,10 +16,9 @@ This project analyzes a heart disease dataset and builds a classification workfl
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
 
 ## Project Structure
-- `task3_heart_disease.ipynb` - main analysis and modeling notebook
+- `task3_heart_disease.ipynb` - main analysis and modeling Script
 - `task3_eda.png` - exploratory analysis plot
 - `task3_class_distribution.png` - class balance visualization
 - `task3_correlation.png` - feature correlation heatmap
@@ -31,9 +30,6 @@ This project analyzes a heart disease dataset and builds a classification workfl
 Evaluation visuals are included in the project folder.
 
 ## How to Run
-1. Open `task3_heart_disease.ipynb` in Jupyter Notebook or VS Code.
+1. Open `task3_heart_disease.ipynb`  VS Code.
 2. Install the required Python packages if needed.
-3. Run the notebook cells from top to bottom to reproduce the analysis and results.
-
-## Notes
-- Keep the notebook and generated images together so reviewers can trace the results quickly.
+3. Run the Script to reproduce the analysis and results.
