@@ -15,10 +15,10 @@ This project explores the classic Iris dataset and summarizes how the flower mea
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+
 
 ## Project Structure
-- `task1_iris_eda.ipynb` - main analysis notebook
+- `task1_iris_eda.py` - main analysis script
 - `task1_histograms.png` - distribution plots
 - `task1_pairplot.png` - pairwise feature relationships
 - `task1_correlation.png` - correlation heatmap
@@ -28,6 +28,6 @@ This project explores the classic Iris dataset and summarizes how the flower mea
 Key visuals are included in the project folder.
 
 ## How to Run
-1. Open `task1_iris_eda.ipynb` in Jupyter Notebook or VS Code.
+1. Open `task1_iris_eda.ipynb` VS Code.
 2. Install the required scientific Python packages if needed.
-3. Run the notebook cells from top to bottom to reproduce the analysis.
+3. Run the script to reproduce the analysis.
