@@ -1,0 +1,61 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pkl
+*.joblib
+*.h5
+*.model
+*.pth
+
+# Data files (CSV, if too large)
+# *.csv
+
+# Temporary files
+*.tmp
+.temp/
+
+# Model directories
+*/task5_model/
+task5/task5_model/
+
+# Cache files
+.cache/
+*.cache
