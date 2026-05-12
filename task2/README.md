@@ -16,22 +16,20 @@ This project builds a stock price prediction workflow and evaluates how well the
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
+
 
 ## Project Structure
-- `task2_stock_prediction.ipynb` - main modeling notebook
+- `task2_stock_prediction.py` - main modeling script
 - `task2_closing_price.png` - closing price trend
 - `task2_volume.png` - trading volume trend
 - `task2_actual_vs_predicted.png` - prediction comparison plot
 - `task2_feature_importance.png` - model feature importance
 
 ## Screenshots
-Project visuals are saved alongside the notebook for easy review.
+Project visuals are saved alongside the script for easy review.
 
 ## How to Run
-1. Open `task2_stock_prediction.ipynb` in Jupyter Notebook or VS Code.
+1. Open `task2_stock_prediction.ipynb`  VS Code.
 2. Install the required Python packages if they are not already installed.
-3. Run the notebook cells sequentially to reproduce the analysis and model evaluation.
+3. Run the script to reproduce the analysis and model evaluation.
 
-## Notes
-- Keep data files and generated figures organized so the project remains easy to review.
