@@ -248,6 +248,6 @@ This project is part of the DevelopersHub Corporation internship program.
 - Dataset sources: Iris dataset, Stock market data, Heart disease dataset, Housing dataset
 
 ---
-
-**Last Updated:** May 2026  
+ 
 **Status:**  Complete and Ready for Deployment
+**Submitted By:** Zermine Wajid
