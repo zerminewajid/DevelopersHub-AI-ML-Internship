@@ -29,6 +29,6 @@ Training and analysis visuals are included below:
 ![Data Distribution](task5_data_distribution.png)
 
 ## How to Run
-1. Open `task5_mental_health_chatbot.ipynb` in VS Code.
+1. Open `task5_mental_health_chatbot.py` in VS Code.
 2. Install the required Python packages if they are not already available.
 3. Run the Script to reproduce training and chatbot generation.
