@@ -1,6 +1,6 @@
 # DevelopersHub Corporation - AI/ML Engineering Internship Tasks
 
-## 📋 Overview
+##  Overview
 
 This repository contains a comprehensive collection of **AI/ML Engineering tasks** completed during the internship program at **DevelopersHub Corporation**. The project covers diverse machine learning applications, from exploratory data analysis to advanced deep learning implementations.
 
@@ -9,7 +9,7 @@ This repository contains a comprehensive collection of **AI/ML Engineering tasks
 
 ---
 
-## 🎯 Project Structure
+##  Project Structure
 
 The repository is organized into **6 major tasks**, each demonstrating different aspects of machine learning and data science:
 
@@ -74,7 +74,7 @@ The repository is organized into **6 major tasks**, each demonstrating different
 
 ---
 
-## 📊 Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 - **Python 3.x**
 - **Data Processing:** Pandas, NumPy
@@ -86,7 +86,7 @@ The repository is organized into **6 major tasks**, each demonstrating different
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 ```bash
@@ -130,7 +130,7 @@ jupyter notebook task1_iris_eda.ipynb
 
 ---
 
-## 📁 Directory Structure
+##  Directory Structure
 
 ```
 DevelopersHub-AI-ML-Internship/
@@ -185,7 +185,7 @@ DevelopersHub-AI-ML-Internship/
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 Through this internship project, the following competencies were developed:
 
@@ -198,7 +198,7 @@ Through this internship project, the following competencies were developed:
 
 ---
 
-## 📋 Key Features
+##  Key Features
 
 - **Comprehensive Documentation:** Each task includes detailed explanations and comments
 - **Visualizations:** High-quality plots and charts for data insights
@@ -208,7 +208,7 @@ Through this internship project, the following competencies were developed:
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Task | Type | Model | Accuracy/Metric |
 |------|------|-------|-----------------|
@@ -221,29 +221,27 @@ Through this internship project, the following competencies were developed:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is an internship project. For contributions or improvements, please reach out to the project maintainer.
 
 ---
 
-## 📝 License
+##  License
 
 This project is part of the DevelopersHub Corporation internship program.
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 **Organization:** DevelopersHub Corporation  
 **Program:** AI/ML Engineering Internship  
-**Deadline:** 15th May, 2026
 
-For questions or support, please contact the internship coordinator.
 
 ---
 
-## 🎉 Acknowledgments
+##  Acknowledgments
 
 - Thanks to DevelopersHub Corporation for providing this learning opportunity
 - Special thanks to mentors and colleagues for guidance and support
@@ -252,4 +250,4 @@ For questions or support, please contact the internship coordinator.
 ---
 
 **Last Updated:** May 2026  
-**Status:** ✅ Complete and Ready for Deployment
+**Status:**  Complete and Ready for Deployment
