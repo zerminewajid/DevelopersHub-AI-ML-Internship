@@ -18,7 +18,7 @@ This project analyzes a heart disease dataset and builds a classification workfl
 - Scikit-learn
 
 ## Project Structure
-- `task3_heart_disease.ipynb` - main analysis and modeling Script
+- `task3_heart_disease.py` - main analysis and modeling Script
 - `task3_eda.png` - exploratory analysis plot
 - `task3_class_distribution.png` - class balance visualization
 - `task3_correlation.png` - feature correlation heatmap
