@@ -16,10 +16,9 @@ This project analyzes housing data and builds a regression workflow to estimate 
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
 
 ## Project Structure
-- `task6_house_price.ipynb` - main regression notebook
+- `task6_house_price.py` - main regression Script
 - `task6_price_distribution.png` - target distribution plot
 - `task6_geo_prices.png` - geographic price visualization
 - `task6_correlations.png` - feature correlation heatmap
@@ -30,9 +29,6 @@ This project analyzes housing data and builds a regression workflow to estimate 
 The project folder includes visual outputs that can be used as screenshots in GitHub.
 
 ## How to Run
-1. Open `task6_house_price.ipynb` in Jupyter Notebook or VS Code.
+1. Open `task6_house_price.ipynb` in VS Code.
 2. Install the required Python packages if needed.
-3. Run the notebook cells sequentially to reproduce the full analysis and model evaluation.
-
-## Notes
-- Keep the repository organized so the notebook, figures, and any saved outputs are easy to inspect.
+3. Run the Script to reproduce the full analysis and model evaluation.
